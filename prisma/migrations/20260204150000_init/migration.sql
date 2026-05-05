@@ -1,5 +1,4 @@
-﻿-- CreateEnum
-CREATE TYPE "Role" AS ENUM ('LEARNER', 'MENTOR', 'ADMIN');
+﻿CREATE TYPE "Role" AS ENUM ('LEARNER', 'MENTOR', 'ADMIN');
 
 -- CreateEnum
 CREATE TYPE "RoadmapStepType" AS ENUM ('VALIDATION', 'TOOLS', 'LEGAL', 'COST', 'MARKETING', 'OTHER');
